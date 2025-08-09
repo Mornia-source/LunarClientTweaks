@@ -40,7 +40,7 @@ LunarClientTweaks 是一个专为 Lunar Client 用户打造的优化合集，通
 ### 2. Sneakie Lite 1.8 模组
 
 - **作用**：还原 Minecraft 1.8.9 版本的潜行动画和蹲下高度，修正高版本动画差异。  
-- **推荐模组**：[Sneakie Lite 1.8](https://modrinth.com/mod/sneakie-lite-1-8)  
+- **推荐模组**：[Sneakie Lite 1.8](https://modrinth.com/mod/sneakie-like-1.8)  
 - **安装**：放入 `mods` 文件夹，启动游戏后自动生效。
 
 ---
